@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="date" type="id" />
+    <item name="homeTeam" type="id" />
+    <item name="awayTeam" type="id" />
+    <item name="homeScore" type="id" />
+    <item name="awayScore" type="id" />
+
+    <item name="image_home" type="id" />
+    <item name="image_away" type="id" />
+
+    <item name="jersey_home" type="id" />
+    <item name="jersey_away" type="id" />
+
+
+    <item name="textTengah" type="id" />
+
+    <item name="btn_match_sebelumnya" type="id" />
+    <item name="btn_jadwal" type="id" />
+
+
+</resources>
